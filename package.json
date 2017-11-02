@@ -24,5 +24,6 @@
   "dependencies": {
   },
   "peerDependencies": {
+    "prop-types": "^15.6.0"
   }
 }
